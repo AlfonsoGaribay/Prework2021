@@ -15,6 +15,7 @@
 		F44BEB4025CF8A6600A2FD89 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F44BEB3E25CF8A6600A2FD89 /* LaunchScreen.storyboard */; };
 		F44BEB4B25CF8A6600A2FD89 /* Prework2021Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BEB4A25CF8A6600A2FD89 /* Prework2021Tests.swift */; };
 		F44BEB5625CF8A6600A2FD89 /* Prework2021UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BEB5525CF8A6600A2FD89 /* Prework2021UITests.swift */; };
+		F44BEB6725D0613900A2FD89 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F44BEB6625D0613900A2FD89 /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		F44BEB5125CF8A6600A2FD89 /* Prework2021UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Prework2021UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F44BEB5525CF8A6600A2FD89 /* Prework2021UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prework2021UITests.swift; sourceTree = "<group>"; };
 		F44BEB5725CF8A6700A2FD89 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F44BEB6625D0613900A2FD89 /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				F44BEB3525CF8A6400A2FD89 /* SceneDelegate.swift */,
 				F44BEB3725CF8A6400A2FD89 /* ViewController.swift */,
 				F44BEB3925CF8A6400A2FD89 /* Main.storyboard */,
+				F44BEB6625D0613900A2FD89 /* SettingsViewController.swift */,
 				F44BEB3C25CF8A6600A2FD89 /* Assets.xcassets */,
 				F44BEB3E25CF8A6600A2FD89 /* LaunchScreen.storyboard */,
 				F44BEB4125CF8A6600A2FD89 /* Info.plist */,
@@ -261,6 +264,7 @@
 				F44BEB3825CF8A6400A2FD89 /* ViewController.swift in Sources */,
 				F44BEB3425CF8A6400A2FD89 /* AppDelegate.swift in Sources */,
 				F44BEB3625CF8A6400A2FD89 /* SceneDelegate.swift in Sources */,
+				F44BEB6725D0613900A2FD89 /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
