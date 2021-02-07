@@ -1,8 +1,8 @@
 # Prework2021
 tip calculator for pre work 
 
-// link for the GIF -> http://g.recordit.co/KYxBgMtRWH.gif
-
+// link for the GIF base build -> http://g.recordit.co/KYxBgMtRWH.gif
+// link for V 1.0 -> http://g.recordit.co/QZGkYvRFNy.gif
 //
 # Pre-work - *Prework2021*
 
@@ -35,6 +35,10 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/KYxBgMtRWH.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+BELOW: personalized build 
+
+<img src='http://g.recordit.co/QZGkYvRFNy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
